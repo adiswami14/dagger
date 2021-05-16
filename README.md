@@ -1,4 +1,3 @@
-# annaik2-zubairl2-ravyus2-adithya9
 
 # Dependency Graph
 
@@ -7,7 +6,7 @@
 
 **Authors**:\
             Zubair Lalani - [`zubairl2@illinois.edu`](mailto:zubairl2@illinois.edu)\
-            Adithya Swaminathan - [`adithya9@illinois.edu`](mailto:adithya9@illinois.edu)\
+            Adithya Swaminathan - [`adithya1431@gmail.com`](mailto:adithya1431@gmail.com)\
             Ravyu Sivakumaran - [`ravyus2@illinois.edu`](mailto:ravyus2@illinois.edu)\
             Atharva Naik - [`annaik2@illinois.edu`](mailto:annaik2@illinois.edu)
 
