@@ -20,6 +20,8 @@
  - Detection of cyclical dependencies within repository
  - Cyclical dependencies are represented as colored nodes
 
+ To see the final results of this project, go to the `Results.md` file in the `docs` folder.
+
 ### Dependencies   
 Running the application will require (note that all of these libraries are already installed on EWS):
 - CMake
